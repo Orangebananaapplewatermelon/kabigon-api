@@ -1,6 +1,6 @@
 package com.kabigon.project.service;
 
-import com.kabigon.project.model.entity.User;
+import com.kabigon.commonKabigon.model.entity.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
